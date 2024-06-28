@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "title": "Bahubali 1",
+  "description": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler.",
+  "director": "SS Rajamouli",
+  "_class": "com.project.movieapplication.model.Movie"
+},
+{
+  "_id": 2,
+  "title": "Arya 1",
+  "description": "The plot revolves around Arya, an outgoing and free-spirited boy falling in love with Geetha, an introverted girl who is on the shield of another person Ajay.",
+  "director": "Sukumar",
+  "_class": "com.project.movieapplication.model.Movie"
+},
+{
+  "_id": 3,
+  "title": "Kalki 2898 AD",
+  "description": "It is the first instalment in the planned Kalki Cinematic Universe and inspired by Hindu mythology.",
+  "director": "Nag Ashwin",
+  "_class": "com.project.movieapplication.model.Movie"
+},
+{
+  "_id": 4,
+  "title": "Animal",
+  "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+  "director": "Sandeep Reddy Vanga",
+  "_class": "com.project.movieapplication.model.Movie"
+},
+{
+  "_id": 7,
+  "director": "Sandeep Reddy Vanga",
+  "_class": "com.project.movieapplication.model.Movie"
+}]

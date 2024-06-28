@@ -1,0 +1,9 @@
+[{
+  "_id": 3,
+  "movie": {},
+  "theatre": {
+    "_id": 20,
+    "capacity": 600
+  },
+  "_class": "com.project.movieapplication.model.MovieSession"
+}]

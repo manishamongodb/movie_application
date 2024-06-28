@@ -1,0 +1,62 @@
+[{
+  "_id": 1,
+  "movieSession": {
+    "_id": 1,
+    "movie": {
+      "_id": 1,
+      "title": "Bahubali 2",
+      "description": "This movie is successfully played and get blockbuster and runs 100 days",
+      "director": "SS Rajamouli"
+    },
+    "theatre": {
+      "_id": 1,
+      "capacity": 500,
+      "description": "This theatre has capacity of 500 members"
+    }
+  },
+  "_class": "com.project.movieapplication.model.Ticket"
+},
+{
+  "_id": 2,
+  "movieSession": {
+    "$ref": "moviesession",
+    "$id": 1
+  },
+  "_class": "com.project.movieapplication.model.Ticket"
+},
+{
+  "_id": 3,
+  "movieSession": {
+    "_id": 1,
+    "movie": {
+      "_id": 1,
+      "title": "Arya 1",
+      "description": "This movie is successfully played and get blockbuster",
+      "director": "Sukumar"
+    },
+    "theatre": {
+      "_id": 1,
+      "capacity": 400,
+      "description": "This theatre has capacity of 400 members"
+    }
+  },
+  "_class": "com.project.movieapplication.model.Ticket"
+},
+{
+  "_id": 4,
+  "movieSession": {
+    "_id": 2,
+    "movie": {
+      "_id": 1,
+      "title": "Bahubali 1",
+      "description": "This movie is successfully played and get blockbuster and runs 100 days",
+      "director": "SS Rajamouli"
+    },
+    "theatre": {
+      "_id": 2,
+      "capacity": 500,
+      "description": "This theatre has capacity of 500 members"
+    }
+  },
+  "_class": "com.project.movieapplication.model.Ticket"
+}]

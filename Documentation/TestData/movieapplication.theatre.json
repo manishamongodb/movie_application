@@ -1,0 +1,35 @@
+[{
+  "_id": 2,
+  "capacity": 400,
+  "description": "This theatre has capacity of 400 members",
+  "_class": "com.project.movieapplication.model.Theatre"
+},
+{
+  "_id": 3,
+  "capacity": 500,
+  "description": "This theatre has capacity of 500 members",
+  "_class": "com.project.movieapplication.model.Theatre"
+},
+{
+  "_id": 4,
+  "capacity": 600,
+  "description": "This theatre has capacity of 600 members",
+  "_class": "com.project.movieapplication.model.Theatre"
+},
+{
+  "_id": 5,
+  "capacity": 500,
+  "description": "This theatre has capacity of 500 members",
+  "_class": "com.project.movieapplication.model.Theatre"
+},
+{
+  "_id": 6,
+  "capacity": 500,
+  "description": "This theatre has capacity of 500 members",
+  "_class": "com.project.movieapplication.model.Theatre"
+},
+{
+  "_id": 1,
+  "capacity": 600,
+  "_class": "com.project.movieapplication.model.Theatre"
+}]
